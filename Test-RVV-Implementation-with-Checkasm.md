@@ -20,7 +20,7 @@ Ensure that you have:
 - **QEMU with Ubuntu 22.04.5 LTS installed**
 - **RISC-V toolchain and environment set up**
 
-If you haven't set up QEMU yet, refer to the [RISC-V Development Setup Guide](../README.md).
+If you haven't set up QEMU yet, refer to the [RISC-V Development Setup Guide](https://github.com/sohamukute/RISC-V-Development-Environment-Setup-on-qemu/blob/main/README.md).
 
 ---
 
