@@ -65,11 +65,7 @@ ninja test
 ./tests/checkasm --list-functions
 ```
 
-### Run specific test (replace `test_name` with the actual test)
-```sh
-./tests/checkasm --test test_name
-```
-
+- [List of all functions and tests](https://drive.google.com/file/d/16Z9wxOMKBxf1Aw2IV51sbbngWhwbu4Ru/view?usp=sharing)
 ---
 
 ## Benchmarking Functions
@@ -77,14 +73,7 @@ To benchmark all functions, run:
 ```sh
 ./tests/checkasm -bench -b
 ```
-
-### Saving Benchmark Results
-You can save the results to a log file:
-```sh
-./tests/checkasm -bench -b | tee bench_log.txt
-```
-
----
+- [Benchamrk](https://drive.google.com/file/d/1FALLUAq5gsI8FIZXoY9vQ76AtN_7WL9u/view?usp=sharing)
 
 ## References
 - [dav1d Repository](https://code.videolan.org/videolan/dav1d)
