@@ -4,17 +4,6 @@ This guide walks you through testing the RISC-V Vector (RVV) implementation in t
 
 ---
 
-## Table of Contents
-- [Prerequisites](#prerequisites)
-- [Cloning the dav1d Repository](#cloning-the-dav1d-repository)
-- [Installing Dependencies](#installing-dependencies)
-- [Building the Project](#building-the-project)
-- [Running Checkasm Tests](#running-checkasm-tests)
-- [Benchmarking Functions](#benchmarking-functions)
-- [References](#references)
-
----
-
 ## Prerequisites
 Ensure that you have:
 - **QEMU with Ubuntu 22.04.5 LTS installed**
@@ -77,6 +66,5 @@ To benchmark all functions, run:
 
 ## References
 - [dav1d Repository](https://code.videolan.org/videolan/dav1d)
-- [Checkasm Documentation](https://code.videolan.org/videolan/dav1d/-/blob/master/tests/checkasm.c)
 
 ---
